@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Input a number and return the date that many days ago.</description>
+        <internal_name>get_days_ago_date</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot>a40f8467dbe3330007a5f282399619b0</latest_snapshot>
+        <master_snapshot/>
+        <name>Calculate daysAgo Date</name>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-03 12:27:49</sys_created_on>
+        <sys_id>ac3e8827dbe3330007a5f28239961921</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Calculate daysAgo Date</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_250462_needit_sp">65beb79bdba3330007a5f2823996199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">65beb79bdba3330007a5f2823996199a</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_ac3e8827dbe3330007a5f28239961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-03 12:51:32</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=ac3e8827dbe3330007a5f28239961921"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ac3e8827dbe3330007a5f28239961921"/>
+</record_update>

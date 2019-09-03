@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Property">adfe3bdbdba3330007a5f28239961910</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">4f20442bdba3330007a5f28239961938</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-03 12:26:15</sys_created_on>
+        <sys_id>61dd8827dbe3330007a5f28239961916</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_250462_needit_sp">65beb79bdba3330007a5f2823996199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">65beb79bdba3330007a5f2823996199a</sys_scope>
+        <sys_update_name>sys_hub_action_instance_61dd8827dbe3330007a5f28239961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-03 14:07:16</sys_updated_on>
+        <ui_id>fec7350f-1582-4edd-aa2f-ce385ea53389</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=61dd8827dbe3330007a5f28239961916"/>
+</record_update>

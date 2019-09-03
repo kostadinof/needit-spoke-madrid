@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan/>
+        <plan_id>aa07a4e3db27330007a5f282399619fb</plan_id>
+        <snapshot>0cf8ec67db27330007a5f282399619b5</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-03 14:24:40</sys_created_on>
+        <sys_id>90f820a7db27330007a5f2823996190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>50f8ec67db27330007a5f282399619fd</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_250462_needit_sp">65beb79bdba3330007a5f2823996199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">65beb79bdba3330007a5f2823996199a</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_90f820a7db27330007a5f2823996190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-03 14:24:40</sys_updated_on>
+        <trigger display_value="">50f8ec67db27330007a5f282399619fd</trigger>
+    </sys_flow_trigger_plan>
+</record_update>
